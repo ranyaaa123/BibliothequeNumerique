@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliothequeNumerique", "BibliothequeNumerique\BibliothequeNumerique.csproj", "{52100FCD-3892-4070-9318-2F5222E1E479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52100FCD-3892-4070-9318-2F5222E1E479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52100FCD-3892-4070-9318-2F5222E1E479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52100FCD-3892-4070-9318-2F5222E1E479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52100FCD-3892-4070-9318-2F5222E1E479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359D88FA-ED7B-47B7-9BEE-CD3C242D8F83}
+	EndGlobalSection
+EndGlobal
